@@ -241,10 +241,4 @@
 
 			});
 
-	// Banner.
-		var $banner = $('#banner');
-
-		$banner
-			._parallax();
-
 })(jQuery);
